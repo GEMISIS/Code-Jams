@@ -1,0 +1,2 @@
+# Google Code Jam - Round 1B
+Managed to provide solutions to the first and last problems, and begin getting onto the right path for the second problem. Unfortunately I did not properly calculate out the memory for problem 1, and ran out of memory for it, and for problem 3 I chose not to spend time looking for a faster solution. As a result I unfortunately did not pass to the next round.
